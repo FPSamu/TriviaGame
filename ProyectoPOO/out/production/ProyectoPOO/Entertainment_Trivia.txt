@@ -1,0 +1,40 @@
+¿Quién es el autor de Harry Potter?;J.K. Rowling;J.K. Rowling;J.R.R. Tolkien;George R.R. Martin;Stephen King
+¿En qué ciudad se encuentra Hollywood?;Los Ángeles;Nueva York;Los Ángeles;Las Vegas;San Francisco
+¿Cuál es la película más taquillera de la historia?;Avatar;Titanic;Avatar;Avengers: Endgame;Star Wars
+¿Qué instrumento tocaba Ludwig van Beethoven?;Piano;Violín;Piano;Flauta;Guitarra
+¿Qué tipo de danza es famosa en Argentina?;Tango;Salsa;Tango;Ballet;Flamenco
+¿Cuál es el nombre real de la cantante Lady Gaga?;Stefani Germanotta;Stefani Germanotta;Madonna Ciccone;Katy Hudson;Alicia Moore
+¿Qué famoso actor es conocido como El Duque?;John Wayne;Clint Eastwood;John Wayne;Sean Connery;Morgan Freeman
+¿Cuál es la serie de televisión más larga de la historia?;Los Simpsons;Los Simpsons;Doctor Who;Lassie;Gunsmoke
+¿En qué país se originó el reggae?;Jamaica;Jamaica;Brasil;Estados Unidos;Cuba
+¿Quién pintó la Mona Lisa?;Leonardo da Vinci;Leonardo da Vinci;Vincent van Gogh;Pablo Picasso;Claude Monet
+¿Qué película ganó el primer Oscar a la mejor película?;Alas;Alas;Lo que el viento se llevó;Casablanca;El padrino
+¿Quién es conocido como el Rey del Rock and Roll?;Elvis Presley;Elvis Presley;Michael Jackson;Bob Dylan;Freddie Mercury
+¿Qué banda británica es famosa por el álbum Dark Side of the Moon?;Pink Floyd;The Beatles;The Rolling Stones;Pink Floyd;Queen
+¿En qué año se estrenó la primera película de Star Wars?;1977;1977;1980;1983;1973
+¿Quién escribió Don Quijote de la Mancha?;Miguel de Cervantes;Miguel de Cervantes;Gabriel García Márquez;William Shakespeare;Lope de Vega
+¿Cuál es el programa de juegos más antiguo en la televisión estadounidense?;The Price Is Right;Jeopardy;Wheel of Fortune;The Price Is Right;Family Feud
+¿Cuál es el festival de música más grande del mundo?;Donauinselfest;Glastonbury;Woodstock;Donauinselfest;Coachella
+¿Qué novela de J.R.R. Tolkien precede a El Señor de los Anillos?;El Hobbit;El Hobbit;El Silmarillion;La caída de Gondolin;La última canción
+¿Qué director de cine es conocido por sus películas de suspense?;Alfred Hitchcock;Alfred Hitchcock;Steven Spielberg;Martin Scorsese;Quentin Tarantino
+¿Cuál es la capital mundial del cine?;Los Ángeles;Los Ángeles;Mumbai;París;Roma
+¿Qué cantante es conocida como la Reina del Pop?;Madonna;Madonna;Lady Gaga;Britney Spears;Mariah Carey
+¿Qué película popularizó la frase May the Force be with you?;Star Wars;Star Wars;Harry Potter;The Lord of the Rings;Avatar
+¿Cuál es el videojuego más vendido de todos los tiempos?;Minecraft;Minecraft;Tetris;Super Mario Bros;Wii Sports
+¿Cuál es el nombre del parque temático más visitado del mundo?;Magic Kingdom;Disneyland;Magic Kingdom;Universal Studios;Epcot
+¿Quién es el autor de Canción de hielo y fuego, que fue adaptada a la serie de televisión Juego de tronos?;George R.R. Martin;George R.R. Martin;J.K. Rowling;Terry Pratchett;Neil Gaiman
+¿Qué famosa banda de rock es conocida por su álbum Back in Black?;AC/DC;AC/DC;Led Zeppelin;The Beatles;Metallica
+¿Cuál es la novela más vendida de todos los tiempos?;Don Quijote de la Mancha;Don Quijote de la Mancha;La Biblia;Harry Potter;El Alquimista
+¿Qué famoso cantante fue conocido como el Rey del Pop?;Michael Jackson;Michael Jackson;Elvis Presley;Prince;David Bowie
+¿Qué personaje ficticio es famoso por su frase Elemental, mi querido Watson?;Sherlock Holmes;Sherlock Holmes;Harry Potter;James Bond;Frodo Bolsón
+¿Qué premio es conocido como el Nobel de la música?;Premio Polar;Premio Polar;Grammy;Oscar;Tony
+¿Cuál es el país de origen del anime?;Japón;Japón;Corea del Sur;China;Estados Unidos
+¿Cuál es el musical de Broadway más taquillero de todos los tiempos?;El Rey León;El Rey León;Cats;Hamilton;Wicked
+¿Quién fue el primer superhéroe de los cómics?;Superman;Superman;Batman;Spider-Man;Captain America
+¿Qué cantante británico es conocido por su álbum Thriller?;Michael Jackson;Elton John;Paul McCartney;Michael Jackson;Rod Stewart
+¿Qué película es famosa por la frase Houston, tenemos un problema?;Apollo 13;Apollo 13;Gravity;Interstellar;The Martian
+¿Cuál es el premio más importante del cine español?;Goya;Goya;Oscar;Cannes;Bafta
+¿Qué famoso dúo de comedia fue conocido como el Gordo y el Flaco?;Laurel y Hardy;Laurel y Hardy;Abbott y Costello;Martin y Lewis;Key y Peele
+¿En qué país se originó el ballet?;Rusia;Italia;Francia;Rusia;Inglaterra
+¿Qué ciudad es conocida como la capital del teatro en el mundo?;Nueva York;Londres;Nueva York;París;Viena
+¿Cuál es la obra más famosa de William Shakespeare?;Hamlet;Romeo y Julieta;Hamlet;Macbeth;Otelo

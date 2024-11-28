@@ -1,0 +1,40 @@
+¿Cuál es el planeta más grande del sistema solar?;Júpiter;Tierra;Marte;Júpiter;Venus
+¿Qué gas es esencial para la respiración humana?;Oxígeno;Hidrógeno;Nitrógeno;Oxígeno;Dióxido de carbono
+¿Qué tipo de animal es una ballena?;Mamífero;Pez;Mamífero;Reptil;Ave
+¿Cuántos huesos tiene el cuerpo humano adulto?;206;206;210;203;205
+¿Cuál es el elemento químico más abundante en la atmósfera terrestre?;Nitrógeno;Oxígeno;Hidrógeno;Nitrógeno;Carbono
+¿Cuál es el órgano más grande del cuerpo humano?;Piel;Corazón;Hígado;Cerebro;Piel
+¿De qué están hechos principalmente los cometas?;Hielo y polvo;Roca;Metal;Hielo y polvo;Gas
+¿Cuál es el metal más ligero?;Litio;Hierro;Litio;Plomo;Oro
+¿Qué planeta es conocido como el planeta rojo?;Marte;Júpiter;Marte;Tierra;Venus
+¿Qué vitamina es producida por el cuerpo humano cuando se expone al sol?;Vitamina D;Vitamina A;Vitamina C;Vitamina D;Vitamina E
+¿Cuál es el océano más grande del mundo?;Pacífico;Atlántico;Pacífico;Índico;Ártico
+¿Qué tipo de células en el cuerpo humano producen insulina?;Células beta;Células alfa;Células gamma;Células beta;Células delta
+¿Qué sistema del cuerpo humano está compuesto por el cerebro y la médula espinal?;Sistema nervioso;Sistema circulatorio;Sistema digestivo;Sistema nervioso;Sistema respiratorio
+¿Cuál es la fórmula química del agua?;H2O;CO2;H2O;O2;NaCl
+¿Cuántas patas tiene una araña?;8;6;8;10;12
+¿Qué elemento es necesario para la fotosíntesis?;Luz solar;Agua;Tierra;Luz solar;Aire
+¿Cuál es el nombre científico para el estudio de los insectos?;Entomología;Biología;Zoología;Entomología;Ecología
+¿Qué tipo de animal es un tiburón?;Pez;Mamífero;Reptil;Pez;Ave
+¿Cuántos planetas tiene nuestro sistema solar?;8;9;8;7;6
+¿Qué órgano del cuerpo humano filtra la sangre?;Riñón;Corazón;Hígado;Riñón;Estómago
+¿Cuál es la unidad básica de la vida?;Célula;Átomo;Molécula;Célula;Partícula
+¿Qué tipo de roca se forma por el enfriamiento del magma?;Ígnea;Sedimentaria;Metamórfica;Ígnea;Volcánica
+¿Cuál es el gas principal en la atmósfera de Marte?;Dióxido de carbono;Oxígeno;Nitrógeno;Dióxido de carbono;Hidrógeno
+¿Cuál es el animal más rápido en tierra?;Guepardo;León;Tigre;Guepardo;Elefante
+¿Cuál es el planeta más cercano al sol?;Mercurio;Venus;Mercurio;Tierra;Marte
+¿Cuál es la principal fuente de energía para la Tierra?;Sol;Viento;Agua;Sol;Gas
+¿Cuántas cámaras tiene el corazón humano?;4;2;4;3;5
+¿Qué fenómeno natural causa más muertes cada año?;Terremotos;Huracanes;Terremotos;Tsunamis;Inundaciones
+¿Cuál es el continente más frío en la Tierra?;Antártida;Asia;Europa;Antártida;África
+¿Cómo se llama el proceso de conversión de agua líquida en vapor?;Evaporación;Condensación;Sublimación;Evaporación;Cristalización
+¿Cuál es el período más largo de la era Mesozoica?;Jurásico;Cretácico;Jurásico;Triásico;Permiano
+¿Cuál es el elemento más duro en la escala de Mohs?;Diamante;Cuarzo;Oro;Diamante;Platino
+¿Qué gas produce el efecto invernadero?;Dióxido de carbono;Oxígeno;Nitrógeno;Dióxido de carbono;Metano
+¿Cuál es el nombre del primer satélite artificial de la Tierra?;Sputnik;Explorer;Voyager;Sputnik;Apollo
+¿Cuál es la ciencia que estudia los volcanes?;Vulcanología;Geología;Seismología;Vulcanología;Meteorología
+¿Cuál es el metal más conductor?;Plata;Oro;Cobre;Plata;Aluminio
+¿Cuál es el elemento químico con el símbolo O?;Oxígeno;Oro;Osmio;Oxígeno;Oxalato
+¿Cuál es el órgano encargado de la digestión?;Estómago;Intestino;Hígado;Estómago;Páncreas
+¿Qué científico propuso la teoría de la relatividad?;Einstein;Newton;Galileo;Einstein;Bohr
+¿Cuál es la capa más externa de la Tierra?;Corteza;Manto;Núcleo;Corteza;Litosfera

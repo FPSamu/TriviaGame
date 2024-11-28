@@ -1,0 +1,40 @@
+¿Cuál es el río más largo del mundo?;Amazonas;Nilo;Yangtsé;Amazonas;Misisipi
+¿Cuál es la capital de Francia?;París;Londres;Berlín;París;Madrid
+¿Qué país tiene la población más grande del mundo?;China;India;Estados Unidos;China;Brasil
+¿En qué continente está Egipto?;África;Europa;África;Asia;América
+¿Cuál es el desierto más grande del mundo?;Sahara;Gobi;Sahara;Kalahari;Atacama
+¿Qué país es famoso por sus pirámides?;Egipto;México;Perú;Egipto;India
+¿Cuál es la montaña más alta del mundo?;Everest;K2;Everest;Kilimanjaro;Elbrús
+¿Cuál es la ciudad más poblada del mundo?;Tokio;Nueva York;Shanghái;Tokio;Mumbai
+¿Qué país es el más pequeño del mundo?;Vaticano;Mónaco;Nauru;Vaticano;San Marino
+¿Cuál es el lago más grande del mundo por superficie?;Mar Caspio;Lago Superior;Mar Caspio;Lago Victoria;Lago Hurón
+¿Qué océano es el más profundo?;Pacífico;Atlántico;Índico;Pacífico;Ártico
+¿Cuál es la capital de Australia?;Canberra;Sídney;Melbourne;Canberra;Perth
+¿Qué línea divide la Tierra en dos hemisferios norte y sur?;Ecuador;Meridiano de Greenwich;Ecuador;Trópico de Cáncer;Trópico de Capricornio
+¿Cuál es la ciudad más grande de África por población?;Lagos;El Cairo;Nairobi;Lagos;Johannesburgo
+¿Qué país es conocido como la tierra del sol naciente?;Japón;China;Corea;Japón;Tailandia
+¿Cuál es el idioma oficial de Brasil?;Portugués;Español;Inglés;Portugués;Francés
+¿Qué país tiene forma de bota?;Italia;España;Francia;Italia;Portugal
+¿Cuál es el volcán más activo del mundo?;Kilauea;Etna;Vesubio;Kilauea;Stromboli
+¿Qué país es el mayor productor de café del mundo?;Brasil;Colombia;Vietnam;Brasil;Etiopía
+¿Qué es más grande, un océano o un mar?;Océano;Mar;Lago;Océano;Río
+¿Cuál es la capital de Canadá?;Ottawa;Toronto;Vancouver;Ottawa;Montreal
+¿Cuál es el río más largo de Europa?;Volga;Danubio;Rin;Volga;Támesis
+¿Qué país es el más grande en términos de área?;Rusia;Canadá;China;Rusia;Estados Unidos
+¿Cuál es el nombre del punto más profundo del océano?;Fosa de las Marianas;Fosa de Tonga;Fosa de Perú-Chile;Fosa de las Marianas;Fosa de Java
+¿En qué país está la Torre Eiffel?;Francia;Italia;Alemania;Francia;España
+¿Qué país es famoso por los canales de Ámsterdam?;Países Bajos;Bélgica;Dinamarca;Países Bajos;Alemania
+¿Qué continente es conocido como el continente helado?;Antártida;Ártico;Antártida;Europa;Asia
+¿Qué es el Machu Picchu?;Ciudadela Inca;Montaña;Río;Ciudadela Inca;Lago
+¿Cuál es el país más poblado de África?;Nigeria;Egipto;Sudáfrica;Nigeria;Etiopía
+¿Cuál es el océano más pequeño?;Ártico;Atlántico;Pacífico;Ártico;Índico
+¿Qué país europeo es conocido por sus relojes y chocolates?;Suiza;Bélgica;Alemania;Suiza;Francia
+¿Cuántos estados tiene Estados Unidos?;50;48;50;52;45
+¿Qué país tiene las mayores reservas de petróleo del mundo?;Venezuela;Arabia Saudita;Rusia;Venezuela;Irán
+¿Qué país es conocido como el país de los mil lagos?;Finlandia;Canadá;Rusia;Finlandia;Suecia
+¿Cuál es la capital de México?;Ciudad de México;Guadalajara;Monterrey;Ciudad de México;Cancún
+¿Cuál es el río más largo de América del Sur?;Amazonas;Orinoco;Paraná;Amazonas;Magdalena
+¿Qué país tiene el mayor número de islas en el mundo?;Suecia;Filipinas;Indonesia;Suecia;Canadá
+¿Qué país es el más grande de Sudamérica?;Brasil;Argentina;Colombia;Brasil;Venezuela
+¿Qué país es el mayor exportador de petróleo en el mundo?;Arabia Saudita;Rusia;Irán;Arabia Saudita;Kuwait
+¿En qué ciudad se encuentra la estatua de la Libertad?;Nueva York;Washington D.C.;Boston;Nueva York;Filadelfia
